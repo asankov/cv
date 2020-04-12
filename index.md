@@ -66,8 +66,8 @@ __<span style="font-size: 24px">⚙</span> Python 3, Django, jQuery__
 
 __Building a 12-factor Application__
 
+* <a href="https://youtu.be/xyeXx2qtfLI" target="_blank"> full-length talk at DevConf Brno 2020 </a>
 * full-length talk at OpenExpo Madrid 2019
-* full-length talk at DevConf Brno 2020
 * lightning talk at OpenFest Bulgaria 2018
 * lightning talk at TuxCon Bulgaria 2019
 
