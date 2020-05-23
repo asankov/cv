@@ -73,7 +73,7 @@ __Building a 12-factor Application__
 
 ## Education
 
-`2015-2019`
+`2015-Present`
 __Technical University of Sofia__
 
 Telecomunnications, B.Sc.
