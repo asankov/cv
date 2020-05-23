@@ -20,7 +20,7 @@ __Docker Inc./ Mirantis Inc.__
 * working in remote team
 * Docker Inc. got acquired by Mirantis in November 2019
 
-__<span style="font-size: 24px">⚙</span> Golang, gRPC__
+__<span style="font-size: 24px">⚙</span> Golang, gRPC, Kubernetes__
 
 <br>
 
