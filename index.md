@@ -14,9 +14,9 @@ Software engineer, open-source enthusiast.
 
 __VMware Carbon Black__
 
-* working on Carbon Black Cloud
-
 `Member of Technical Staff`
+
+* working on Carbon Black Cloud
 
 `August 2019 - June 2020`
 
