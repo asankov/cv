@@ -10,7 +10,13 @@ Software engineer, open-source enthusiast.
 
 ## Experience
 
-`August 2019 - present`
+`June 2020 - present`
+
+__VMware Carbon Black__
+
+`Member of Technical Staff`
+
+`August 2019 - June 2020`
 
 __Docker Inc./ Mirantis Inc.__
 
