@@ -26,7 +26,7 @@ __Docker Inc./ Mirantis Inc.__
 
 * working on Docker Enterprise product, based on Kubernetes
 * working in remote team
-* Docker Inc. got acquired by Mirantis in November 2019
+* Docker EE got acquired by Mirantis in November 2019
 
 __<span style="font-size: 24px">⚙</span> Golang, gRPC, Kubernetes__
 
