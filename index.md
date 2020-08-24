@@ -5,6 +5,7 @@ title: Anton Sankov's CV
 # Anton Sankov
 Software engineer, open-source enthusiast.
 <div id="webaddress"><a href="mailto:asankov@protonmail.com">asankov@protonmail.com</a></div>
+<div id="webaddress"><a href="mailto:asankov96+cv@gmail.com">asankov96@gmail.com</a></div>
 <div id="webaddress"><a href="https://github.com/asankov">github.com/asankov</a></div>
 
 
@@ -16,7 +17,12 @@ __VMware Carbon Black__
 
 `Member of Technical Staff`
 
-* working on Carbon Black Cloud
+* working on Carbon Black Cloud - Thread Hunter
+* working in remote team
+* building API first, cloud-native services, designed to handle and process PBs of data
+* mentoring fellow engineers and participating in the hiring process
+
+__<span style="font-size: 24px">⚙</span> Java, Spring Boot, Python, Golang, AWS, Docker__
 
 `August 2019 - June 2020`
 
@@ -40,6 +46,7 @@ __Paysafe Group__
 
 * build end-to-end crypto trading services
 * integrated them in the company’s two main product - Skrill and Neteller digital wallets
+* mentoring fellow engineers and participating in the hiring process
 
 __<span style="font-size: 24px">⚙</span> Java, Spring Boot - Netflix Stack, Angular 2+__
 
@@ -87,7 +94,7 @@ __Technical University of Sofia__
 Telecomunnications, B.Sc.
 
 
-## Competitions 
+## Competitions
 
 __Paysafe Hackaton 2018__
 
@@ -102,7 +109,7 @@ __eComm Hackaton 2017__
 __Space Challenges 2016__
 
 * build a web application that shows users visually and analytically the percent of deforestation in Bulgaria for the last 3 years
-* used <a href="https://www.mapbox.com/">Mapbox</a> for map visualization, <a href="https://www.planet.com/">Planet</a> for data and Python for image processing 
+* used <a href="https://www.mapbox.com/">Mapbox</a> for map visualization, <a href="https://www.planet.com/">Planet</a> for data and Python for image processing
 
 
 <!-- ### Footer
