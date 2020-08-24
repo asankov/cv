@@ -17,7 +17,7 @@ __VMware Carbon Black__
 
 `Member of Technical Staff`
 
-* working on Carbon Black Cloud - Thread Hunter
+* working on [Carbon Black Cloud - Thread Hunter](https://www.carbonblack.com/products/enterprise-endpoint-detection-and-response/)
 * working in remote team
 * building API first, cloud-native services, designed to handle and process PBs of data
 * mentoring fellow engineers and participating in the hiring process
@@ -31,6 +31,7 @@ __Docker Inc./ Mirantis Inc.__
 `Software Engineer`
 
 * working on Docker Enterprise product, based on Kubernetes
+* working on [UCP](https://docs.mirantis.com/docker-enterprise/v3.0/dockeree-products/ucp.html) - Docker EE's container orchestration platform
 * working in remote team
 * Docker EE got acquired by Mirantis in November 2019
 
@@ -45,7 +46,7 @@ __Paysafe Group__
 `Software Engineer`
 
 * build end-to-end crypto trading services
-* integrated them in the company’s two main product - Skrill and Neteller digital wallets
+* integrated them in the company’s two main product - [Skrill](https://www.skrill.com/en/) and [Neteller](https://www.neteller.com/en) digital wallets
 * mentoring fellow engineers and participating in the hiring process
 
 __<span style="font-size: 24px">⚙</span> Java, Spring Boot - Netflix Stack, Angular 2+__
@@ -58,7 +59,7 @@ __SAP Labs Bulgaria__
 
 `Software Development Intern`
 
-* worked on the provisioning framework of SAP Cloud Platform
+* worked on the provisioning framework of [SAP Cloud Platform](https://www.sap.com/products/cloud-platform.html)
 * learned how to build quality software at scale and how to work in a team
 
 __<span style="font-size: 24px">⚙</span> Java EE, SAP UI 5__
