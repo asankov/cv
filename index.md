@@ -19,7 +19,7 @@ __VMware Carbon Black__
 
 * working on [Carbon Black Cloud - Thread Hunter](https://www.carbonblack.com/products/enterprise-endpoint-detection-and-response/)
 * working in remote team
-* building API first, cloud-native services, designed to handle and process PBs of data
+* building API first, cloud-native microservices, designed to handle and process PBs of data
 * mentoring fellow engineers and participating in the hiring process
 
 __<span style="font-size: 24px">⚙</span> Java, Spring Boot, Python, Golang, AWS, Docker__
@@ -93,7 +93,7 @@ __Gira__
 
 A Jira-like application for tracking the progress of your video games
 
-<a href="https://github.com/asankov/gira>" target="_blank"> github.com/asankov/gira </a>
+<a href="https://github.com/asankov/gira" target="_blank"> github.com/asankov/gira </a>
 
 __<span style="font-size: 24px">⚙</span> Golang, Docker, PostgreSQL__
 
