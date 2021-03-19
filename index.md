@@ -17,12 +17,14 @@ __VMware Carbon Black__
 
 `Member of Technical Staff`
 
-* working on [Carbon Black Cloud - Thread Hunter](https://www.carbonblack.com/products/enterprise-endpoint-detection-and-response/)
-* working in remote team
-* building API first, cloud-native microservices, designed to handle and process PBs of data
+* working on [Carbon Black Cloud - Workload Protection](https://www.carbonblack.com/products/vmware-carbon-black-cloud-workload/)
+* this product helps you secure your Kubernetes cluster by policies and detecting misconfigurations
+* working in a remote team
+* building API first, cloud-native microservices, designed to handle and process big loads of data
+* building the components that run inside the customer's cluster and the components that manage their lifecycle
 * mentoring fellow engineers and participating in the hiring process
 
-__<span style="font-size: 24px">⚙</span> Java, Spring Boot, Python, Golang, AWS, Docker__
+__<span style="font-size: 24px">⚙</span> Golang, Kubernetes, gRPC, AWS, Docker__
 
 `August 2019 - June 2020`
 
@@ -35,7 +37,7 @@ __Docker Inc./ Mirantis Inc.__
 * working in remote team
 * Docker EE got acquired by Mirantis in November 2019
 
-__<span style="font-size: 24px">⚙</span> Golang, gRPC, Kubernetes__
+__<span style="font-size: 24px">⚙</span> Golang, Kubernetes, gRPC__
 
 <br>
 
