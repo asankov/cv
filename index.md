@@ -19,7 +19,7 @@ Software engineer, open-source enthusiast.
 
 `Member of Technical Staff`
 
-- working on [Carbon Black Cloud - Workload Protection](https://www.carbonblack.com/products/vmware-carbon-black-cloud-workload/)
+- working on [Carbon Black Cloud - Container Security](https://www.vmware.com/products/carbon-black-cloud-container.html)
 - this product helps you secure your Kubernetes cluster by policies and detecting misconfigurations
 - working in a remote team
 - building API first, cloud-native microservices, designed to handle and process big loads of data
