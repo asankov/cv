@@ -86,7 +86,7 @@ Software engineer, open-source enthusiast.
 
 **Building a 12-factor Application**
 
-- <a href="https://youtu.be/xyeXx2qtfLI" target="_blank"> @ DevConf Brno 2020 </a>
+- [@ DevConf Brno 2020](https://youtu.be/xyeXx2qtfLI)
 - @ OpenExpo Madrid 2019
 - lightning talk @ OpenFest Bulgaria 2018
 - lightning talk @ TuxCon Bulgaria 2019
