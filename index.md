@@ -91,6 +91,12 @@ Software engineer, open-source enthusiast.
 - lightning talk @ OpenFest Bulgaria 2018
 - lightning talk @ TuxCon Bulgaria 2019
 
+**Go 101 workshop**
+
+- workshop that shows the participants the first steps in Go programming language
+- all course material can be found in this [repo](https://github.com/asankov/go-101-workshop)
+- @ HackConf 2021 with [Boris Stoyanov](https://github.com/borisbsv)
+
 ## Personal projects
 
 **Gira**
