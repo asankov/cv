@@ -95,7 +95,7 @@ Software engineer, open-source enthusiast.
 
 - workshop that shows the participants the first steps in Go programming language
 - all course material can be found in this [repo](https://github.com/asankov/go-101-workshop)
-- @ HackConf 2021 with [Boris Stoyanov](https://github.com/borisbsv)
+- [@ HackConf 2021](https://hackconf.bg/news/hackconf-2021-online-edition-workshops-announcement/#go-101) with [Boris Stoyanov](https://github.com/borisbsv)
 
 ## Personal projects
 
