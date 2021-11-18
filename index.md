@@ -97,6 +97,11 @@ Software engineer, open-source enthusiast.
 - all course material can be found in this [repo](https://github.com/asankov/go-101-workshop)
 - [@ HackConf 2021](https://hackconf.bg/news/hackconf-2021-online-edition-workshops-announcement/#go-101) with [Boris Stoyanov](https://github.com/borisbsv)
 
+**Next phases of Kubernetes**
+
+- presentation about how to use Kubernetes extensibility constructs like CRDs, Operators and Admission Controllers to extend Kubernetes and use it as an API backend
+- [@ ISTA 2021]()
+
 ## Personal projects
 
 **Gira**
