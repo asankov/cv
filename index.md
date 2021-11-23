@@ -101,7 +101,7 @@ Software engineer, open-source enthusiast.
 
 - presentation about how to use Kubernetes extensibility constructs like CRDs, Operators and Admission Controllers to extend Kubernetes and use it as an API backend
 - Code samples at <https://github.com/asankov/kubernetes-extensibility>
-- [@ ISTA 2021](https://youtu.be/fotjvAfnjGE?t=9091)
+- [@ ISTA 2021](https://youtu.be/yim8NnYjODY)
 
 
 ## Personal projects
