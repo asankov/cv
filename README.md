@@ -1,6 +1,6 @@
 # CV
-This is my Curriculum Vitae
 
-https://asankov.org/cv/
+This is my Curriculum Vitae.
 
-Based on https://github.com/elipapa/markdown-cv
+Download the PDF version from this repo, or go to <https://asankov.org/cv/> for the full version.
+
